@@ -32,3 +32,6 @@ après chaque commande git.
 Auteurs :
  - Fabien Rozar
  - Arnassalom Lucas
+ - Mathias BALLOT
+ - Samuel Valentin
+ - Junot Montpre
