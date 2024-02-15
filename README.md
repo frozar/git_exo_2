@@ -32,4 +32,5 @@ après chaque commande git.
 Auteurs :
  - Fabien Rozar
  - Chahalane Bériche
+ - Dimitri Ratane
  - Oliver Grondin
