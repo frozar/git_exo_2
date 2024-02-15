@@ -31,3 +31,4 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
+ - Julien LENORMAND
