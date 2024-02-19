@@ -1,0 +1,29 @@
+#!/usr/bin/env python3
+
+def main():
+    while True:
+        try:
+            # Invite l'utilisateur à entrer une expression à évaluer
+            user_input = input("> ")
+            
+            # Fin de la boucle si la ligne est vide
+            if not user_input:
+                break
+            
+            # Évalue l'expression entrée 
+            result = eval(user_input)
+            
+            # Afficher le résultat
+            print(result)
+            
+        except Exception as e:
+            # Gérer les erreurs de calcul 
+            print(f"Erreur de calcul: {str(e)}")
+
+    # Message de fin
+    print("Fin des calculs :)")
+
+if __name__ == "__main__":
+    # On execute la fonction main()
+    main()
+    
